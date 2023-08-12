@@ -17,7 +17,7 @@
 - ✍🏻 # Microsoft Certified: [Azure Fundamentals](https://drive.google.com/file/d/1tYCOcvtObtzRjTnT1Os8aBTRn1S_yF1Y/view)
 - ✍🏻 # Microsoft Certified: [Power Platform Fundamentals](https://drive.google.com/file/d/1jlkry-98rHWWxFriWGVyV0jzVpwwIf5x/view)
 -   💬  Ask me about C, C++, HTML, CSS, JavaScript, BootStrap.
--   📃  Resume -  [Resume](https://drive.google.com/file/d/1AG7um16KwdDNwFzxhdr5lc5jiBpIZ7R2/view)
+-   📃  Resume -  [Resume](https://drive.google.com/drive/u/0/folders/1pk2Xapl1F-r9F0aKvdeDNHQtHf45PApa)
 -   😄  Pronouns: She/Her
 
 ### Connect with me:
