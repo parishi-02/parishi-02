@@ -5,7 +5,7 @@
 
 ```
                                                     Parishi Jain ✨
-                      Web Developer | Open Source Enthusiast | Explorer | Competitive Programmer
+                      Java Developer | Open Source Enthusiast | Explorer | Competitive Programmer
 
 ```
 
