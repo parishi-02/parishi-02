@@ -13,10 +13,10 @@
 
 -   🎓  I'm pursuing my Btech in Computer Science and Engineering from Meerut Institute of Engineering and Technology, Meerut.
 -   🌱  I’m currently learning Web Development & DSA.
--  ✍🏻 I Love Competitive programming and have a good knowledge of C, C++.
+-  ✍🏻 I Love Competitive programming and have a good knowledge of C, C++, Java.
 - ✍🏻 # Microsoft Certified: [Azure Fundamentals](https://drive.google.com/file/d/1tYCOcvtObtzRjTnT1Os8aBTRn1S_yF1Y/view)
 - ✍🏻 # Microsoft Certified: [Power Platform Fundamentals](https://drive.google.com/file/d/1jlkry-98rHWWxFriWGVyV0jzVpwwIf5x/view)
--   💬  Ask me about C, C++, HTML, CSS, JavaScript, BootStrap.
+-   💬  Ask me about C, C++, Java, Spring, Hibernate, AJAX, jQuery, Maven, Apache Camel, ActiveMQ, HTML, CSS, JavaScript, BootStrap.
 -   📃  Resume -  [Resume](https://drive.google.com/file/d/1oOP3CKaRhb-84cDrvqFq8vO39ieKqW0t/view?usp=sharing)
 -   😄  Pronouns: She/Her
 
