@@ -30,11 +30,11 @@
 <a href="https://www.hackerrank.com/Parishi_Jain?hr_r=1"> <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg' height=45px /></a>
 ###  🛠 Tech Stack
 
--    ### Language: C++, Java, JavaScript, SQL, PL/SQL
--    ### Technologies/Frameforks: Spring, Hibernate, JSP, SonarQube, Apache Camel, ActiveMQ
--    ### Computer fundamentals: Database management system, Operating System
--    ### Tools: SVN, postman, Maven
--    ### Other: Data Structures and Algorithms, SOLID principles, Design patterns
+- Language: C++, Java, JavaScript, SQL, PL/SQL
+- Technologies/Frameforks: Spring, Hibernate, JSP, SonarQube, Apache Camel, ActiveMQ
+- Computer fundamentals: Database management system, Operating System
+- Tools: SVN, postman, Maven
+- Other: Data Structures and Algorithms, SOLID principles, Design patterns
 
 ### Show some ❤️ by starring some of the repositories!
 
